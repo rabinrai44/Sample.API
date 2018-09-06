@@ -1,0 +1,11 @@
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Presentation\bin\Debug\Sample.Presentation.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Presentation\bin\Debug\Sample.Presentation.pdb
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Presentation\obj\Debug\Sample.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Presentation\obj\Debug\Sample.Presentation.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Presentation\obj\Debug\Sample.Presentation.pdb
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Presentation\bin\Debug\Sample.Presentation.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Presentation\bin\Debug\Sample.Presentation.pdb
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Presentation\obj\Debug\Sample.Presentation.csprojAssemblyReference.cache
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Presentation\obj\Debug\Sample.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Presentation\obj\Debug\Sample.Presentation.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Presentation\obj\Debug\Sample.Presentation.pdb

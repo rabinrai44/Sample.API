@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div id="div"></div>
+
+    <!-- jQuery Loading -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Custom JS -->
+    <script>
+        //Loading data from API using jQuery
+        URL = "http://localhost:51940/hello"; /* Change your URL when testing from your local machine*/
+        $(document).ready(() => {
+            $.ajax({
+                type: "GET",
+                url: URL,
+                data: { get_param: "value" },
+                success: function (data) {
+                    for (var i = 0; i < 10; ++i) {
+                        $("#div").append(`<h4> ${data}</h4>`);
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\bin\Debug\Sample.Domain.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\bin\Debug\Sample.Domain.pdb
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\bin\Debug\Sample.Infrastructure.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\bin\Debug\Sample.Infrastructure.pdb
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.csprojAssemblyReference.cache
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.csproj.CopyComplete
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.pdb
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Domain\bin\Debug\Sample.Domain.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Domain\bin\Debug\Sample.Domain.pdb
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.csprojAssemblyReference.cache
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.dll
+C:\Users\rabin\OneDrive\Documents\SampleWebApi\simpleInjector\Sample.API\Sample.Domain\obj\Debug\Sample.Domain.pdb
